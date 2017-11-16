@@ -35,7 +35,15 @@ public class gyyx {
             
             String str2="aaaa";  
             System.out.println(lengthOfLongestSubstring(str2));  
- 
+            
+            String str3=" ";  
+            System.out.println(lengthOfLongestSubstring(str3));  
+            
+            String str4="qwerttyd";  
+            System.out.println(lengthOfLongestSubstring(str4));  
+            
+            String str5="mnbvcxzlkjhgfdsaa";  
+            System.out.println(lengthOfLongestSubstring(str5));  
               
         }
 
