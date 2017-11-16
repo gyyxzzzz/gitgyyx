@@ -30,8 +30,13 @@ public class gyyx {
         }  
         public static void main(String[] args) {  
             // TODO Auto-generated method stub  
-            String str="abcba";  
-            System.out.println(lengthOfLongestSubstring(str));  
+            String str1="abcba";  
+            System.out.println(lengthOfLongestSubstring(str1));  
+            
+            String str2="aaaa";  
+            System.out.println(lengthOfLongestSubstring(str2));  
+ 
+              
         }
 
       
